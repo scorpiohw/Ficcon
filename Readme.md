@@ -1,8 +1,9 @@
-建议使用Markdown语言进行创作。
+Ficcon项目是一个综合的文学作品开发项目，在几个世界设定的基础上进行作品开发。我们欢迎有兴趣者加入我们的队伍。
+**建议使用Markdown语言进行创作。**
 
-* 已经建立Ficcon项目的[*wiki*](https://github.com/scorpiohw/Ficcon/wiki).
+* Ficcon项目的相关[*wiki*](https://github.com/scorpiohw/Ficcon/wiki).
 
-* 已经建立Ficcon项目的[*blog*](http://ficcon.diandian.com/).
+* Ficcon项目的[*blog*](http://ficcon.diandian.com/).
 
 * 目前正在讨论的[issues](https://github.com/scorpiohw/Ficcon/issues?state=open).
 
@@ -10,5 +11,5 @@
 阅读本文档网络版请[*点击*](http://scorpiohw.github.com/Ficcon/)。
 
 Notice：
-**修改之后，记得提交。**
+**请勿提交到master分支，请使用pull request，审核通过后再merge。**
 	
