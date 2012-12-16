@@ -4,6 +4,9 @@
 
 * 已经建立Ficcon项目的[*blog*](http://ficcon.diandian.com/).
 
+* 目前正在讨论的[issues](https://github.com/scorpiohw/Ficcon/issues?state=open).
+
+
 阅读本文档网络版请[*点击*](http://scorpiohw.github.com/Ficcon/)。
 
 Notice：
