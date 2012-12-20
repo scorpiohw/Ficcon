@@ -1,1 +1,1 @@
-resa
+resaIn the distant future, a woman fighter abandons everything to pursue the love of an enemy soldier. However her dark and violent past threatens to destroy the newfound happiness.
