@@ -12,16 +12,16 @@
 		"selected_items":
 		[
 			[
-				"",
-				"Git: Gui"
+				"sni",
+				"Snippet: ClassInfo"
 			],
 			[
 				"Snippet: ",
-				"Snippet: CDATA"
+				"Snippet: VersionInfo"
 			],
 			[
-				"sni",
-				"Snippet: Lorem ipsum"
+				"",
+				"Git: Gui"
 			],
 			[
 				"install",
@@ -49,6 +49,10 @@
 	},
 	"file_history":
 	[
+		"/Users/Mike/Projects/Ficcon/Ficcon/Mike/云裳之国/世界设定.YS/平安津.YS.md",
+		"/Users/Mike/Projects/Ficcon/Ficcon/Mike/云裳之国/世界设定.YS/世界设定.YS.md",
+		"/Users/Mike/Library/Application Support/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/Users/Mike/Library/Application Support/Sublime Text 2/Packages/User/md level 1",
 		"/Users/Mike/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/Mike/Projects/Ficcon/Ficcon/Mike/云裳之国/云裳之国.sublime-project",
 		"/Users/Mike/Projects/Ficcon/Ficcon/Mike/云裳之国/云裳之国.sublime-workspace",
@@ -139,6 +143,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
 	"replace":
 	{
 		"height": 0.0
@@ -180,6 +188,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 223.0,
+	"side_bar_width": 341.0,
 	"status_bar_visible": true
 }
