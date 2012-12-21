@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>VoodooPadBundleVersion</key>
+	<integer>5</integer>
+	<key>isEncrypted</key>
+	<false/>
+	<key>uuid</key>
+	<string>f729ed81-6ec9-4c05-89c6-22f8ade5b22c</string>
+</dict>
+</plist>
