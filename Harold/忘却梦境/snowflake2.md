@@ -21,12 +21,19 @@ Epiphany: After having her secret revealed and her relationship with Leaph shatt
 
 One paragraph summary:
 
-Years have passed from the time she single handedly murdered her own entire family for revenge. Now, with a new name, new identity and a new profession, she wishes to lead a normal unremarkable life without burdens of her past. However, a young naive and idealistic soldier from the enemy caught her eye and reminds her of her past innocence, and she fell in love. She follows and helps im throughout his adventures to end the conflict and establish peace, while at the same time trying to get him to return her feelings. Unfortunately, fate intervened, and through Leaph's own curiosity her secrets are revealed, destroying their relationship. In despair, she turned her love into hatred and became Leaph's enemy, working to destroy what Leaph fought to protect. In the end, she realizes that Leaph is gone just like a dream, and that her whole life is one devoid of meaning, she quitely dissapears from the world. 
+Years have passed from the time she single handedly murdered her own entire family for revenge. Now, with a new name, new identity and a new profession, she wishes to lead a normal unremarkable life without burdens of her past. However, a young naive and idealistic soldier from the enemy caught her eye and reminds her of her past innocence, and she fell in love. She follows and helps im throughout his adventures to end the conflict and establish peace, while at the same time trying to get him to return her feelings. Unfortunately, fate intervened, and through Leaph's obsession her secrets are revealed, destroying their relationship. In despair, she turned her love into hatred and became Leaph's enemy, working to destroy what Leaph fought to protect. In the end, she realizes that Leaph is gone just like a dream, and that her whole life is one devoid of meaning, she quitely dissapears from the world. 
 
 Leaph Wang
 王中孚
 
-Summary: A young man from earth II follows a team of force users whose goal is to end the fighting on earth with force. Encountering a mysterious young woman.
+Summary: A young man tries to overcome his survivor's guilt by returning to earth to fulfill a vow, and to move on and find purpose in life. 
+
+Motivation: Having lost his best childhood friend from the pain of having his whole family massacred, Leaph returns to earth after 5 years to fulfill the vow he made at his friend's death bed, to "revenge the murder of his friend's family and to live the life and to experience the happiness that has been taken from his friend." 
+
+Goal: To end conflict between the two human races, to establish a institute for peace, and most importantly, to live a full and meaningful life. 
+
+Conflict: 
+
 
 
 
