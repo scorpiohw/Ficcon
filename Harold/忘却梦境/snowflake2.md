@@ -26,7 +26,14 @@ Years have passed from the time she single handedly murdered her own entire fami
 Leaph Wang
 王中孚
 
-Summary: A young man with survivor's guilt abandons a priveledged life to be a soldier, trying to 
+Summary: A young man tries to overcome his survivor's guilt by returning to earth to fulfill a vow, and to move on and find purpose in life. 
+
+Motivation: Having lost his best childhood friend from the pain of having his whole family massacred, Leaph returns to earth after 5 years to fulfill the vow he made at his friend's death bed, to "revenge the murder of his friend's family and to live the life and to experience the happiness that has been taken from his friend." 
+
+Goal: To end conflict between the two human races, to establish a institute for peace, and most importantly, to live a full and meaningful life. 
+
+Conflict: 
+
 
 
 
