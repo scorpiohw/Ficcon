@@ -26,13 +26,21 @@ Years have passed from the time she single handedly murdered her own entire fami
 Leaph Wang
 王中孚
 
-Summary: A young man tries to overcome his survivor's guilt by returning to earth to fulfill a vow, and to move on and find purpose in life. 
+Summary: A young man returns to earth, to fulfill a promise made to a dead friend "to bring an end to the conflict so no one has to suffer meaninglessly anymore, and to live the dreams and life of his friend in his place."
 
-Motivation: Having lost his best childhood friend from the pain of having his whole family massacred, Leaph returns to earth after 5 years to fulfill the vow he made at his friend's death bed, to "revenge the murder of his friend's family and to live the life and to experience the happiness that has been taken from his friend." 
+Motivation: To fulfill the vow he made to his friend to end conflict and live as a selfless hero, to atone his regret of not being able to save his friend. 
 
-Goal: To end conflict between the two human races, to establish a institute for peace, and most importantly, to live a full and meaningful life. 
+Goal: To end conflict between the two human races, to establish a institute for peace, and to be a hero that works for others. 
 
-Conflict: 
+Conflict: As time goes on, his own feeling and wants starts to conflict with his quest to live his life for others. His affections for Cecile especially makes him hesitate on his path, and Cecile's dark past and eventual betrayal forces him to make a painful choice.
+
+Epiphany: Deciding against his future with Cecile and for his ideals and vow, he uncovers the truth of Cecile's path despite Cecile's efforts to hide it. Facing Cecile who is now an enemy, he must protect everyone from her wrath. 
+
+One paragraph summary:
+
+Deeply affected by the tragic death of his childhood friend, Leaph lives his life according to his vow made at his friend's deathbed "to bring an end to this meaningles "to bring an end to the conflict so no one has to suffer meaninglessly anymore, and to live the dreams and life of his friend in his place." Now, years later and becoming a young man, Leaph returns to earth as a soldier to fulfill that vow. Meeting and befriending Cecile, he gains a powerful ally in his quest. However, his relationship with Cecile bother him, as through finding happiness as a individual, he gradually loosens his commitment to his vow. His discovery of Cecile's path forces a choice between his personal happiness and justice, which he chooses the later. Facing Cecile as an enemy, he fought against her to protect the hard won peace. Cecile eventually dissapears on her own, leaving Leaph as a hero, just as he set out to do. 
+
+
 
 
 
