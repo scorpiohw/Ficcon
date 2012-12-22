@@ -53,7 +53,9 @@ Conflict: Leaph's own ideals conflicts with pursuing love for his own interests,
 
 Epiphany: When the secret breaks, and Leaph chose his own ideals rather than Cecile, Lumi instead protects Cecile from various forces trying to vanquish her, all the while trying to stop Cecile's heartbroken rampage. 
 
-Summary: Rescued as a little girl on the verge of death by Cecile, Lumi has since followed Cecile as a servant. Knowing firsthand how cruel the world can be, she is nevertheless very kindheated, wishing that the people around her be happy. Being the only one fully aware of Cecile's secrets, she is able to understand Cecile's pain and wish. When Cecile become in love with Leaph, Lumi sees this as her chance to make Cecile happy. Working between Cecile and Leaph, she tries her best to bring the two together. However, despite her best efforts, Cecile's secret is revealed and Cecile loses herself and begins a heartbroken rampage. Choosing to protect Cecile from others and also to stop Cecile's rampage, she worked in a shadow alone. In the end, when Cecile finally accepts her fate, she takes Lumi together and dissappears. (Thanks on the deathbed)
+Summary: Rescued as a little girl on the verge of death by Cecile, Lumi has since followed Cecile as a servant. Knowing firsthand how cruel the world can be, she is nevertheless very kindheated, wishing that the people around her be happy. Being the only one fully aware of Cecile's secrets, she is able to understand Cecile's pain and wish. When Cecile become in love with Leaph, Lumi sees this as her chance to make Cecile happy. Working between Cecile and Leaph, she tries her best to bring the two together. However, despite her best efforts, Cecile's secret is revealed and Cecile loses herself and begins a heartbroken rampage. Choosing to protect Cecile from others and also to stop Cecile's rampage, she worked in a shadow alone. In the end, when Cecile finally accepts her fate, she takes Lumi together and dissappears. (Thanks on the deathbed).
+
+
 
 
 
