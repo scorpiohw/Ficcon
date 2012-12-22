@@ -43,7 +43,7 @@ Deeply affected by the tragic death of his childhood friend, Leaph lives his lif
 Lumi
 霜儿
 
-Summary: 
+Summary: Rescued by Cecile when she was young, she willingly follows Cecile as a servent
 
 
 
