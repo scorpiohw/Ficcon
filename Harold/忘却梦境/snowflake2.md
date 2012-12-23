@@ -1,5 +1,6 @@
 In the distant future, a woman fighter abandons everything to pursue the love of an enemy soldier. However her dark and violent past threatens to destroy the newfound happiness.
 
+
 Snowflake level 2. 
 
 In the distant future, a conflict is brewing between humans on earth and humans who returned from space. Cecile, a hardened mercenary fighter from earth with supernatural powers, thought she found her place within the resistance, until she met Leaph, a idealistic young soldier from the other side with similar abilities. Together they worked to bring an end to the conflict, to establish a lasting institution for peace, and more importantly, to find purpose and happiness from each other. However, a long buried episode from Cecile's past threatens to bring discord between the two, and to threaten the valuable newfound peace in the world. 
