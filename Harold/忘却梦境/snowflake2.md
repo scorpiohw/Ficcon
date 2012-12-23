@@ -57,6 +57,19 @@ Epiphany: When the secret breaks, and Leaph chose his own ideals rather than Cec
 Summary: Rescued as a little girl on the verge of death by Cecile, Lumi has since followed Cecile as a servant. Knowing firsthand how cruel the world can be, she is nevertheless very kindheated, wishing that the people around her be happy. Being the only one fully aware of Cecile's secrets, she is able to understand Cecile's pain and wish. When Cecile become in love with Leaph, Lumi sees this as her chance to make Cecile happy. Working between Cecile and Leaph, she tries her best to bring the two together. However, despite her best efforts, Cecile's secret is revealed and Cecile loses herself and begins a heartbroken rampage. Choosing to protect Cecile from others and also to stop Cecile's rampage, she worked in a shadow alone. In the end, when Cecile finally accepts her fate, she takes Lumi together and dissappears. (Thanks on the deathbed).
 
 
+Michael
+
+Cheerful young man with a desire for revenge. Blaming earthlings for the death of his family in the massacre, he seeks to gather the force users in the army to embroil earth in a exterminating bloodbath. 
+
+Motivation: Revenge for the death of his family.
+
+Goal: A massacre on earth, to rival the one commited against his family.
+
+Conflict: His best friend who he really cared about is against the plan, and actively rejects his efforts in recruiting him, and also tries to "save" him.
+
+Ephiphany: He goes on with the plan anyways, making his best friend his enemy.
+
+
 
 
 
