@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allowPluginLinks</key>
+	<true/>
+	<key>bdToBookmarkAliasUpgrade</key>
+	<true/>
+	<key>createSpotlightIndex</key>
+	<true/>
+	<key>dbVersion</key>
+	<string>7</string>
+	<key>localWebAccess</key>
+	<false/>
+	<key>skIndexVersion</key>
+	<integer>7</integer>
+	<key>updatedFMPageToRealUTIs</key>
+	<true/>
+	<key>updatedSpecialPages3</key>
+	<true/>
+	<key>uuid</key>
+	<string>9eef449e-6300-4e37-8e22-193dc5d9ac12</string>
+</dict>
+</plist>
