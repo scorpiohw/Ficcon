@@ -10,40 +10,34 @@
 	<true/>
 	<key>dbVersion</key>
 	<string>7</string>
-	<key>defaultPage</key>
-	<string>Index</string>
-	<key>defaultUUID</key>
-	<string>c4e922b1-c363-4681-8e61-6f8f7efb42d8</string>
 	<key>expectedPageCount</key>
 	<integer>1</integer>
 	<key>localWebAccess</key>
 	<false/>
-	<key>newPageUTI</key>
-	<string>com.apple.rtfd</string>
 	<key>openWindows</key>
 	<array>
 		<dict>
 			<key>displayUUID</key>
-			<string>c4e922b1-c363-4681-8e61-6f8f7efb42d8</string>
+			<string>bb43331d-d081-4e4d-aa14-4d696c82ba55</string>
 			<key>drawerOpen</key>
-			<true/>
+			<false/>
 			<key>openUUIDProperties</key>
 			<array>
 				<dict>
 					<key>itemUUID</key>
-					<string>c4e922b1-c363-4681-8e61-6f8f7efb42d8</string>
+					<string>bb43331d-d081-4e4d-aa14-4d696c82ba55</string>
 					<key>rulerVisible</key>
 					<false/>
 					<key>selectedRange</key>
-					<string>{19, 0}</string>
+					<string>{17, 0}</string>
 					<key>visibleGlyphs</key>
-					<string>{0, 19}</string>
+					<string>{0, 17}</string>
 					<key>zoomScale</key>
 					<real>1</real>
 				</dict>
 			</array>
 			<key>windowFrame</key>
-			<string>{{537, 26}, {799, 1152}}</string>
+			<string>{{79, 191}, {632, 648}}</string>
 		</dict>
 	</array>
 	<key>skIndexVersion</key>
@@ -53,6 +47,6 @@
 	<key>updatedSpecialPages3</key>
 	<true/>
 	<key>uuid</key>
-	<string>f729ed81-6ec9-4c05-89c6-22f8ade5b22c</string>
+	<string>1456bb4e-296b-49dc-8ab2-f6e07a2022c0</string>
 </dict>
 </plist>
