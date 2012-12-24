@@ -21,7 +21,7 @@
 	<key>createdDate</key>
 	<date>2012-12-24T16:27:46Z</date>
 	<key>dataHash</key>
-	<string>c46855a1f0fe916aa7f30cddb409c702f121d24e</string>
+	<string>bdfd3f83bd4f32688768d32e74b73f1e40cffc22</string>
 	<key>displayName</key>
 	<string>Index</string>
 	<key>encrypted</key>
@@ -31,7 +31,7 @@
 	<key>metaValues</key>
 	<dict/>
 	<key>modifiedDate</key>
-	<date>2012-12-24T16:28:08Z</date>
+	<date>2012-12-24T16:31:39Z</date>
 	<key>shouldHighlightLinks</key>
 	<string>Yes</string>
 	<key>skipOnExport</key>
