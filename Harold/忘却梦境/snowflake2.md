@@ -27,11 +27,11 @@ Years have passed from the time she single handedly murdered her own entire fami
 Leaph Wang
 王中孚
 
-Summary: A young man returns to earth, to fulfill a promise made to a dead friend "to bring an end to the conflict so no one has to suffer meaninglessly anymore, and to live the dreams and life of his friend in his place."
+Summary: A idealistic young man arrives at earth trying to follow his father's footsteps, however real world temptations threaten his path
 
-Motivation: To fulfill the vow he made to his friend to end conflict and live as a selfless hero, to atone his regret of not being able to save his friend. 
+Motivation:  Admiration of his father, and his ideals
 
-Goal: To end conflict between the two human races, to establish a institute for peace, and to be a hero that works for others. 
+Goal: To be 
 
 Conflict: As time goes on, his own feeling and wants starts to conflict with his quest to live his life for others. His affections for Cecile especially makes him hesitate on his path, and Cecile's dark past and eventual betrayal forces him to make a painful choice.
 
@@ -68,7 +68,6 @@ Goal: A massacre on earth, to rival the one commited against his family.
 Conflict: His best friend who he really cared about is against the plan, and actively rejects his efforts in recruiting him, and also tries to "save" him.
 
 Ephiphany: He goes on with the plan anyways, making his best friend his enemy.
-
 
 
 
