@@ -1,4 +1,4 @@
-tags：【markdown】
+tags：【planet】
 
 
 
@@ -8,7 +8,7 @@ tags：【markdown】
 
 ## Overview
 
-人类起始的星球，
+被意外发现，遗忘数千年的人类起始家园。
 
 ### Syntax
 
